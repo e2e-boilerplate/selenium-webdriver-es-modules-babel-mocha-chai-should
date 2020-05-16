@@ -36,18 +36,19 @@
   },
   "keywords": [
     "babel",
-    "boilerplate",
     "chai",
-    "e2e",
-    "e2e tests",
     "es modules",
-    "example",
-    "integration test",
     "mocha",
     "selenium",
     "selenium-webdriver",
     "should",
-    "webdriver manager"
+    "webdriver manager",
+    "e2e",
+    "e2e tests",
+    "boilerplate",
+    "integration test",
+    "test automation",
+    "javascript"
   ],
   "license": "MIT",
   "lint-staged": {
